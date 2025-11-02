@@ -10,7 +10,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.send('Hello simple curd')
 })
-
+     
 
 // there should be a uri, i deleted this here for secret. this uri i saved in my word developer notes 
 
